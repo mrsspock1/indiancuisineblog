@@ -1,0 +1,35 @@
+.bg-green {
+  background-color: darkgreen;
+}
+
+.navbar-rest {
+  margin-bottom: 0;
+}
+
+.recipe {
+  padding-top: 50px;
+}
+
+.recipe .lead {
+  padding-top: 10px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.glyphicon-search {
+  font-size: 50px;
+  color: #fff;
+}
+
+.recipe-more {
+  padding: 30px 20px;
+  background-color: greenyellow;
+}
+
+.recipe-more img {
+  width: 150px;
+}
+
+footer {
+  padding: 15px;
+}

@@ -1,0 +1,36 @@
+body{
+	background-image: url("elephant.jpg");
+	background-attachment: fixed;
+	margin-top: 30px auto;
+}
+.navbar{
+	margin-bottom: 0;
+	background-color: #DC143C;
+	position: fixed;
+	width: 100%;
+	font-family: 'Libre Baskerville', serif;
+	z-index: 500;
+}
+.bg{
+	margin: 0 auto;
+	padding: 0px;
+	color: 	#A9A9A9;
+}
+.col-md-6{
+	text-align: left;
+	color: black;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 20px;
+
+}
+.bg1{
+	margin: 0;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+img{
+	width: 100%;
+
+}
+
+
